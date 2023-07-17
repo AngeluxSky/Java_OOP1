@@ -25,5 +25,5 @@
   Создается интерфейс interface VendingMachine, который содержит два перегруженных метода getProduct. Реализуем класс HotBeverageMachine, который реализует интерфейс VendingMachine.
   В этом классе перегруженные методы getProduct создают объекты соответствующих классов.
 
-  В методе main происходит создание нескольких объектов классов HotDrink и HotBeverage, а также объекта класса HotBeverageMachine.
+  В методе main происходит создание нескольких объектов классов HotDrink и HotBeverage, а также объект класса HotBeverageMachine.
   Затем используя объект HotBeverageMachine, вызываются методы getProduct, которые возвращают нужные продукты.
